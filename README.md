@@ -10,7 +10,7 @@ However, despite our enthusiasm and efforts, we encountered significant challeng
 **_Our motto is, as a wise toy once said, friendships last 'To Infinity and Beyond!'._**
 
 
-### **Read Before Installing and Running The Program:**
+### **Read Before Installing and Running The Program**
 Microsoft Visual Studio 2022 is what we used to write and run this program but any C++ IDE will work just fine. If you decide to use Visual Studio you need to do the following steps before running the program:
 
 1- **Create a new project:** 
@@ -37,7 +37,7 @@ Microsoft Visual Studio 2022 is what we used to write and run this program but a
 > 
 > • Wait until it's successfully installed.
 
-#### _**Regarding the code:**_
+#### _**Regarding the code**_
 
 Before running the program, follow these steps:
 
@@ -49,7 +49,7 @@ Before running the program, follow these steps:
 
 By completing these steps, you'll be ready to run our code to give it a try!
 
-### **User Manual:**
+### **User Manual**
 **_First:_ Mouse Clicking Actions:**
 
 _In the starting scene,_ 
@@ -82,7 +82,7 @@ _In the window and neighbor's house scenes (scenes 4 and 5),_
 > 
 >-Use {d, f, r, c} keys to move Woody left, right, up, and down, respectively.
 
-### **Regarding The Presentation and Demo:**
+### **Regarding The Presentation and Demo**
 **Presentation Details:**
 
 -Our presentation is cinema/movie-themed, noticeable as the lights dim at the beginning and the credits roll at the end, adding to the overall beauty of the project.
@@ -99,7 +99,7 @@ Have fun and enjoy the experience!!
 
 -For the voiceover, we used an AI voice-generator tool referenced in the end.
 
-### **Credits:**
+### **Credits**
 The team members involved in creating this work are:
 
 • Aseel Keleeb - GitHub Profile: https://github.com/AseelKeleeb
@@ -114,7 +114,7 @@ The team members involved in creating this work are:
 
 Special thanks and credit are extended to our professor, Omniah Nagoor, whose invaluable assistance greatly contributed to the development of this project.
 
-### **Other Resources and References:**
+### **Other Resources and References**
 > •	Drawing of a circle:  https://gist.github.com/linusthe3rd/803118
 > 
 > •	DrawString method: https://www.openglprojects.in/2012/04/tutorial-how-to-display-strings-in.html#gsc.tab=0
