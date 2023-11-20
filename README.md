@@ -1,4 +1,4 @@
-### _**#You've got a friend in me!**_
+## _**#You've got a friend in me!**_
 
 
 An interactive story and animation project written in C++ using OpenGL functions and libraries.  It is a schoolwork project for the 'Computer Graphics' course. As the name suggests, this project draws heavy inspiration from the Disney and Pixar movie Toy Story, a childhood treasure that holds countless cherished memories for us. We aimed to encapsulate the movie's essence by crafting a captivating narrative that emphasizes the enduring bonds of friendship.
