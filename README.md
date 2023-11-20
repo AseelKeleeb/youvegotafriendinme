@@ -37,7 +37,7 @@ Microsoft Visual Studio 2022 is what we used to write and run this program but a
 > 
 > • Wait until it's successfully installed.
 
-_**Regarding the code:**_
+#### _**Regarding the code:**_
 
 Before running the program, follow these steps:
 
