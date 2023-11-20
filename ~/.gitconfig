@@ -1,4 +1,12 @@
+[user]
+  email = 113793502+AseelKeleeb@users.noreply.github.com
+  name = aseel keleeb
+
 [commit]
   template = ~/.gitmessage
+
 [core]
   editor = atom --wait
+
+git add ~/.gitmessage
+git commit
