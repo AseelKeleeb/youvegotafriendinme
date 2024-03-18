@@ -89,7 +89,7 @@ _In the window and neighbor's house scenes (scenes 4 and 5),_
 
 -We carefully crafted the scenario of the presentation, serving as the basis for the actual coded story, ensuring a cohesive experience.
 
--Download the (CG-PP(you've got a friend in me).pptx) file to witness the transitions, plot, and our creative approach in showcasing the project to the audience.
+-Download the (Presentation.pptx) file to witness the transitions, plot, and our creative approach in showcasing the project to the audience.
 
 Have fun and enjoy the experience!!
 
